@@ -6,7 +6,7 @@ from apify_client import ApifyClient
 
 # ================== CONFIG ==================
 # Hardcoded as requested (normally use an env var)
-APIFY_API_TOKEN = "apify_api_MualSmXxsQykCnmHev5dr5ok8QGO6041MoSR"
+APIFY_API_TOKEN = "" #Add token 
 
 # Default people-search actor. You can change this in the sidebar at runtime.
 # Tip: Pick a LinkedIn "people search" actor from the Apify Store and paste its ID.
