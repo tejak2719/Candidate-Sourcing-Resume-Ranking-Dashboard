@@ -20,7 +20,7 @@ except Exception:
     OpenAI = None  # handled below
 
 # ================== CONFIG ==================
-APIFY_API_TOKEN = os.getenv("APIFY_API_TOKEN", "apify_api_MualSmXxsQykCnmHev5dr5ok8QGO6041MoSR")
+APIFY_API_TOKEN = os.getenv("APIFY_API_TOKEN", "") #Add token 
 GOOGLE_SEARCH_ACTOR_ID = "apify/google-search-scraper"
 LINKEDIN_ACTOR_ID = os.getenv("APIFY_ACTOR_ID", "dev_fusion/Linkedin-Profile-Scraper")
 
