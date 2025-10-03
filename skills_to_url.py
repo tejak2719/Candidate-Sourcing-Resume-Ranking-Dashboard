@@ -221,7 +221,7 @@ if run_btn:
 # from apify_client import ApifyClient
 
 # # ====== CONFIG ======
-# APIFY_API_TOKEN = "apify_api_MualSmXxsQykCnmHev5dr5ok8QGO6041MoSR"
+# APIFY_API_TOKEN = ""
 # GOOGLE_SEARCH_ACTOR_ID = "apify/google-search-scraper"
 # # ====================
 
