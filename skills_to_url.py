@@ -9,7 +9,7 @@ from apify_client import ApifyClient
 
 # ================== CONFIG ==================
 # hardcoded as requested (normally use an env var)
-APIFY_API_TOKEN = "apify_api_MualSmXxsQykCnmHev5dr5ok8QGO6041MoSR"
+APIFY_API_TOKEN = "" #Add token 
 
 # official google search actor
 GOOGLE_SEARCH_ACTOR_ID = "apify/google-search-scraper"
