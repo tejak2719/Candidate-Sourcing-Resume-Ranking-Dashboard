@@ -1,11 +1,11 @@
-# 🔗 End-to-End Sourcing → Scraping → Ranking
+# End-to-End Sourcing → Scraping → Ranking + Chatbot
 
 This project is a **Streamlit-powered Proof of Concept (POC)** that demonstrates an automated pipeline for **talent sourcing, LinkedIn profile scraping, candidate ranking, and interactive querying**.  
 It integrates **Apify Actors (Google Search & LinkedIn Scraper)** for data sourcing and scraping, and uses **TF-IDF similarity scoring** to rank candidates against a provided FRF (Functional Requirement Form) and JD (Job Description).
 
 ---
 
-## 🚀 Project Workflow (4 Tabs)
+## Project Workflow (4 Tabs)
 
 ### 1️⃣ Skills → LinkedIn URLs
 - Input **10–15 skills** (from FRF or hiring manager).  
@@ -45,7 +45,7 @@ It integrates **Apify Actors (Google Search & LinkedIn Scraper)** for data sourc
 
 ---
 
-## ⚙️ How to Run
+## How to Run
 
 1. **Clone the repository**  
    ```bash
@@ -87,7 +87,7 @@ It integrates **Apify Actors (Google Search & LinkedIn Scraper)** for data sourc
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 ├── sourcing_to_ranking.py    # Main Streamlit app (4 tabs)
@@ -100,7 +100,7 @@ It integrates **Apify Actors (Google Search & LinkedIn Scraper)** for data sourc
 
 ---
 
-## 👨‍💻 About the Authors
+## About the Authors
 
 1. **Teja Konda**  
    - Github: [tejak2719](https://github.com/tejak2719)  
