@@ -19,7 +19,7 @@ except Exception:
     OpenAI = None  # handled below
 
 # ================== CONFIG ==================
-APIFY_API_TOKEN = os.getenv("APIFY_API_TOKEN", "apify_api_MualSmXxsQykCnmHev5dr5ok8QGO6041MoSR")
+APIFY_API_TOKEN = os.getenv("APIFY_API_TOKEN", "")
 GOOGLE_SEARCH_ACTOR_ID = "apify/google-search-scraper"
 LINKEDIN_ACTOR_ID = os.getenv("APIFY_ACTOR_ID", "dev_fusion/Linkedin-Profile-Scraper")
 
@@ -644,7 +644,7 @@ No extra text.
 # from sklearn.metrics.pairwise import cosine_similarity
 
 # # ================== CONFIG ==================
-# APIFY_API_TOKEN = os.getenv("APIFY_API_TOKEN", "apify_api_MualSmXxsQykCnmHev5dr5ok8QGO6041MoSR")
+# APIFY_API_TOKEN = os.getenv("APIFY_API_TOKEN", "")
 # GOOGLE_SEARCH_ACTOR_ID = "apify/google-search-scraper"
 # LINKEDIN_ACTOR_ID = os.getenv("APIFY_ACTOR_ID", "dev_fusion/Linkedin-Profile-Scraper")
 # # ============================================
@@ -915,7 +915,7 @@ No extra text.
 # from sklearn.metrics.pairwise import cosine_similarity
 
 # # ================== CONFIG ==================
-# APIFY_API_TOKEN = os.getenv("APIFY_API_TOKEN", "apify_api_MualSmXxsQykCnmHev5dr5ok8QGO6041MoSR")
+# APIFY_API_TOKEN = os.getenv("APIFY_API_TOKEN", "")
 # GOOGLE_SEARCH_ACTOR_ID = "apify/google-search-scraper"
 # LINKEDIN_ACTOR_ID = os.getenv("APIFY_ACTOR_ID", "dev_fusion/Linkedin-Profile-Scraper")
 # # ============================================
