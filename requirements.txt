@@ -1,0 +1,6 @@
+streamlit
+apify-client
+pandas
+scikit-learn
+PyPDF2
+python-docx

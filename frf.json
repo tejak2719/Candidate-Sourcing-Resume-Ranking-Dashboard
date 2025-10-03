@@ -1,0 +1,24 @@
+{
+  "band": "",
+  "experience": "0-1",
+  "urgency": "Low",
+  "start_date": "2025-10-02",
+  "end_date": "2025-10-02",
+  "billable": "Yes",
+  "bill_rate": 0,
+  "customer": "",
+  "vertical": "",
+  "customer_location": "",
+  "bench_open": "Yes",
+  "skills": [
+    "python",
+    "kubernetes",
+    "airflow",
+    "spark",
+    "snowflake"
+  ],
+  "role_title_filter": "",
+  "location_filter": "",
+  "country_code": "us",
+  "language_code": "en"
+}
