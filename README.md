@@ -3,6 +3,8 @@
 This project is a **Streamlit-powered Proof of Concept (POC)** that demonstrates an automated pipeline for **talent sourcing, LinkedIn profile scraping, candidate ranking, and interactive querying**.  
 It integrates **Apify Actors (Google Search & LinkedIn Scraper)** for data sourcing and scraping, and uses **TF-IDF similarity scoring** to rank candidates against a provided FRF (Functional Requirement Form) and JD (Job Description).
 
+# Note: Our final Product is listed out and coded completely in file : " SkillGrub.py ".
+
 ---
 
 ## Project Workflow (4 Tabs)
